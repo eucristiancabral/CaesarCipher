@@ -10,14 +10,14 @@ A simple project that implements the Caesar Cipher encryption and decryption tec
 1 - Open Visual Studio Code or any code editor of your choice.\
 2 - Create the necessary files (HTML, CSS and JavaScript) and save them in a folder.\
 3 - In the HTML file, make sure to link the JavaScript file.\
-4 - To view the code, simply open the .html file directly in your browser or install the "Live Server" extension in Visual Studio Code and then click on the "Go Live" option.\
+4 - To view the code, simply open the .html file directly in your browser or install the "Live Server" extension in Visual Studio Code and then click on the "Go Live" option.
 
 ### In Python:
 1 - Open Visual Studio Code or another code editor.\
 2 - Create a .py file and paste the project code.\
 3 - Make sure Python is installed on your system.\
 4 - Navigate using the "cd" command to the folder where the .py file is saved.\
-5 - Then, run the code in the terminal with the command: python file_name.py\
+5 - Then, run the code in the terminal with the command: python file_name.py
 
 ### In PHP:
 1 - Open Visual Studio Code or another code editor.\
@@ -26,7 +26,7 @@ A simple project that implements the Caesar Cipher encryption and decryption tec
 3 - Open the Command Prompt.\
 4 - Navigate using the "cd" command to the folder where the .php file is saved.\
 5 - Then, type "php -S localhost:8000" in the command prompt.\
-6 - Then, access "http://localhost:8000/file_name.php" in the browser.\
+6 - Then, access "http://localhost:8000/file_name.php" in the browser.
 
 ## 📌 Technologies used:
 
