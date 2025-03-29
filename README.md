@@ -84,4 +84,4 @@ Um projeto simples que implementa a técnica de criptografia e descriptografia d
 
 ## 🙋 Contribuições/perguntas são bem-vindas
 
-Perguntas ou contribuições para melhorar o código, envie para o e-mail: cristianjosecabral@outlook.com
+Perguntas sobre ou contribuições para melhoria o código, envie para o e-mail: cristianjosecabral@outlook.com
