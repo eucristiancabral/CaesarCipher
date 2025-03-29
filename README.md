@@ -13,9 +13,9 @@ A simple project that implements the Caesar Cipher encryption and decryption tec
 4 - To view the code, simply open the .html file directly in your browser or install the "Live Server" extension in Visual Studio Code and then click on the "Go Live" option.
 
 ### In Python:
-1 - Open Visual Studio Code or another code editor.
-2 - Create a .py file and paste the project code.
-3 - Make sure Python is installed on your system.
+1 - Open Visual Studio Code or another code editor.\
+2 - Create a .py file and paste the project code.\
+3 - Make sure Python is installed on your system.\
 4 - Navigate using the "cd" command to the folder where the .py file is saved.
 5 - Then, run the code in the terminal with the command: python file_name.py
 
